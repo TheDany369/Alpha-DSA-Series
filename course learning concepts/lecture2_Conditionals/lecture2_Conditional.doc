@@ -1,0 +1,13 @@
+
+user enter 5 then
+
+int main(){
+    input a
+    condition if(++a*5 <= 25)   ----> 6*5 -=> 30!<=25
+    else print ===> Bye is the printed answer
+
+    and if(x++ == 5) ---> true because of post incre
+    so answer is Five and no matter else what says it exits to the certain delema
+}
+
+

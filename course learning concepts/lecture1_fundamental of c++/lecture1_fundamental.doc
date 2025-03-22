@@ -1,0 +1,10 @@
+*-----------> Use of % sign more precise
+*--------->>Ascii values to learn :+==>   (i).  'A' => 65
+                                          (ii). 'a' => 97
+                                          (iii).'0' => 48
+
+a++ -> first 'a' value print then  increeement 
+++a -> first increeement then print the final resulted value
+
+
+
