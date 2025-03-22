@@ -1,0 +1,16 @@
+
+
+
+                                                    /* The in class tasks */
+
+#include <bits/stdc++.h>
+using namespace std;
+void func_name(int )
+{
+    
+}
+int main()
+{
+
+    return 0;
+}
